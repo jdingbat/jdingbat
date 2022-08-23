@@ -1,16 +1,48 @@
-### Hi there 👋
+<h2 align="center"> :wave: Hello there! </h2>
 
-<!--
-**jdingbat/jdingbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Lover of programming languages, hater of Java :shit: <br>
+Starting on my nerdy (<a href="https://github.com/AstroNvim/AstroNvim">astronvim</a>)) neovim journey from vscode thanks to <a href="https://github.com/theprimeagen">@theprimeagen</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/-Go-cyan?style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/-rust-brown?style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/-Nim-gold?style=for-the-badge"></img>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Always learning and always avoiding comfort.
+</p>
+
+---
+
+### :computer: Want to know my setup?
+
+#### Main Desktop
+
+> :penguin: NixOs
+
+> :bomb: Ryzen 5950x
+
+> :fire: AMD 6900XT
+
+#### Main Laptop
+
+> :office: MacOs
+
+> :office: M1 Pro
+
+> :office: M1 Pro
+
+#### Software
+
+> :zap: Alacritty
+
+> :scissors: Zellij
+
+> :milky_way: Astronvim & neovim
+
+> :shell: Zsh
+
