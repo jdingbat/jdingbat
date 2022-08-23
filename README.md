@@ -18,24 +18,6 @@ Starting on my nerdy (<a href="https://github.com/AstroNvim/AstroNvim">astronvim
 
 ---
 
-### :computer: Want to know my setup?
-
-#### Main Desktop
-
-> :penguin: NixOs
-
-> :bomb: Ryzen 5950x
-
-> :fire: AMD 6900XT
-
-#### Main Laptop
-
-> :office: MacOs
-
-> :office: M1 Pro
-
-> :office: M1 Pro
-
 #### Software
 
 > :zap: Alacritty
